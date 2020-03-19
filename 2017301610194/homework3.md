@@ -36,7 +36,8 @@ enter
 ## 习题
 
 p9
-![avatar](./p9.png)
+
+![avatar](./P9.png)
 
 a:
 Δ = 850000b / 15Mbps = 0.0567s
@@ -52,7 +53,8 @@ t接’ = Δ/1-Δβ = 0.12s
 
 
 p10
-![avatar](./p10.png)
+
+![avatar](./P10.png)
 
 10米短链路，忽略其传播时延。
 
