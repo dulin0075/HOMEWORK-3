@@ -69,7 +69,7 @@
 >
 > 13. 在正文输入结束时输入一个 . （英文输入法下的句号）
 >
->     ![1](C:%5CUsers%5C17877%5CDesktop%5Ca%5Chomework3%5C1.png)
+>     ![1](1.png)
 >
 > ##  **telnet  maths.whu.edu.cn  80**
 >
@@ -79,6 +79,7 @@
 >
 > 3. 继续输入GET https://maths.whu.edu.cn/ HTTP/1.1，回车后继续输入Host: maths.whu.edu.cn，连续回车两次，返回服务器返回的HTTP响应报文。
 >
->    ![2](C:%5CUsers%5C17877%5CDesktop%5Ca%5Chomework3%5C2.png)
+>    ![2](2.png)
 
 --------------
+
