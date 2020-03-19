@@ -35,9 +35,9 @@
 
 要注意的是需要授权碼的邮箱要用base64加密后的授权碼作為密碼登錄
 
-![1](.\1.jpg)
+![1](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017312580002/1.jpg?raw=true)
 
-![2](.\2.png)
+![2](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017312580002/2.png?raw=true)
 ------
 
 ## 2.telnet maths.whu.edu.cn 80
@@ -51,7 +51,7 @@
   Host: maths.whu.edu.cn
   ```
 
-<![3](.\3.png)
+![3](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017312580002/3.png?raw=true)
 
 ------
 
