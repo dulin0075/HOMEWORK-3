@@ -27,11 +27,11 @@ data
 
 ##### 2、结果
 
-![捕获](C:\Users\lenovo\Desktop\捕获.PNG)
+![捕获](捕获.PNG)
 
 收到邮件
 
-![捕获2](C:\Users\lenovo\Desktop\捕获2.PNG)
+![捕获2](捕获2.PNG)
 
 # 二、telnet maths.whu.edu.cn 80
 
@@ -40,7 +40,7 @@ GET / HTTP/1.1
 Host: maths.whu.edu.cn
 ```
 
-结果![捕获3](C:\Users\lenovo\Desktop\捕获3.PNG)
+结果![捕获3](捕获3.PNG)
 
 # 三、课后练习
 
