@@ -2,4 +2,4 @@
 
 sceenshots文件夹中为控制台和抓包截图
 
-pdf为Wireshark抓包导出的pdf文件
+pdf文件夹内为Wireshark抓包导出的pdf文件
