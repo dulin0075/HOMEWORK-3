@@ -15,7 +15,7 @@
   9. data 编辑邮件内容
   10. quit退出
   
-  ![](pics\telnet1.png)
+  ![](pics/telnet1.png)
   
   接收到邮件的截图：
   
